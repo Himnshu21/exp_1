@@ -1,0 +1,2 @@
+# exp_1
+Set up a GitHub repository for a project, create branches,  merge changes, and use GitHub Pages for hosting a simple static site. 
